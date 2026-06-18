@@ -1,0 +1,1 @@
+import{_ as e,d as t,f as n,g as r,h as i,m as a,p as o,u as s,v as c,y as l}from"./index-BOZLhMDS.js";export{s as actualizarBienPatrimonial,t as cambiarEstadoBien,n as createBienPatrimonial,o as deleteBienPatrimonial,a as getBienPatrimonialById,i as getBienesPatrimoniales,r as getNextSequence,e as getSbnCatalog,c as restaurarBienPatrimonial,l as updateBienPatrimonial};

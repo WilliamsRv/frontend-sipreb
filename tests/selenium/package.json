@@ -1,0 +1,13 @@
+{
+  "name": "sipreb-selenium-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests/patrimonio.test.js --timeout 60000"
+  },
+  "devDependencies": {
+    "mocha": "^11.0.0",
+    "chai": "^5.0.0",
+    "selenium-webdriver": "^4.30.0"
+  }
+}

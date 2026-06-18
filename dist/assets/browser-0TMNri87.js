@@ -1,0 +1,1 @@
+import{C as e,D as t,E as n,S as r,T as i,w as a}from"./index-BOZLhMDS.js";t();export{r as Headers,e as Request,a as Response,i as default,n as fetch};
